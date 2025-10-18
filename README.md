@@ -88,17 +88,17 @@ The ANN consists of:
 ### Contains customer information from a bank, including:
 
 - Feature	Description
-- CreditScore	:Customer credit score
-- Geography	:Country
-- Gender	:Male/Female
-- Age	:Customer’s age
-- Tenure	:Number of years with the bank
-- Balance	:Account balance
-- NumOfProducts	:Number of bank products
-- HasCrCard	:Credit card holder (1 = Yes)
-- IsActiveMember	:Active membership (1 = Yes)
-- EstimatedSalary	:Salary estimate
-- Exited	:Target variable (1 = Churned)
+- CreditScore: Customer credit score
+- Geography: Country
+- Gender: Male/Female
+- Age: Customer’s age
+- Tenure: Number of years with the bank
+- Balance: Account balance
+- NumOfProducts: Number of bank products
+- HasCrCard: Credit card holder (1 = Yes)
+- IsActiveMember: Active membership (1 = Yes)
+- EstimatedSalary: Salary estimate
+- Exited: Target variable (1 = Churned)
 ## 📈 Model Accuracy
 
 The Artificial Neural Network (ANN) was trained for **100 epochs** with the following performance:
@@ -136,8 +136,8 @@ The Artificial Neural Network (ANN) was trained for **100 epochs** with the foll
 
 ### 📉 Accuracy Curve 
 
-![Model Training Curve](https://github.com/rahul15-manch/deep-learning-ann/blob/main/output.png)
-
+![Model  Accuracy Training Curve](https://github.com/rahul15-manch/deep-learning-ann/blob/main/training_accuracy_curve.png)
+![Model  Loss Training Curve](https://github.com/rahul15-manch/deep-learning-ann/blob/main/training_loss_curve.png)
 ## 🌐 Deployment
 
 
