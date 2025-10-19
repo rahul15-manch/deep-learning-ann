@@ -134,7 +134,7 @@ The Artificial Neural Network (ANN) was trained for **100 epochs** with the foll
 
 ---
 
-### 📉 Accuracy Curve 
+### 📉 Accuracy and Loss Curve 
 
 ![Model  Accuracy Training Curve](https://github.com/rahul15-manch/deep-learning-ann/blob/main/training_accuracy_curve.png)
 ![Model  Loss Training Curve](https://github.com/rahul15-manch/deep-learning-ann/blob/main/training_loss_curve.png)
