@@ -143,14 +143,6 @@ The Artificial Neural Network (ANN) was trained for **100 epochs** with the foll
 
 The app is live here 👉 [![Streamlit App](https://img.shields.io/badge/Open%20App-Streamlit-%23FF4B4B?logo=streamlit&logoColor=white)](https://rahul15-manch-deep-learning-ann-app-ks203y.streamlit.app/)
 
-### You can open it directly in your browser and test predictions in real time.
-### **Hosted on:** [Streamlit Cloud](https://streamlit.io/cloud)
-To deploy your own version:
-- Push your code to GitHub
-- Go to Streamlit Community Cloud
-- Link your repository
-- Select the app.py as the main file
-- Deploy 🚀
 
 ## 🧾 Author
 
